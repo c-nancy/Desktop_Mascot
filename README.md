@@ -11,9 +11,9 @@ A simple desktop mascot using PyQt5.
 最后修改时间：2019.04.20
 
 ### 使用方法
-运行SmartFrog.py
-双击青蛙图片显示/隐藏对话框
-单击【No！】退出青蛙
+1. 运行SmartFrog.py
+2. 双击青蛙图片显示/隐藏对话框
+3. 单击【No！】退出青蛙
 
 
 ### 功能
@@ -27,6 +27,6 @@ A simple desktop mascot using PyQt5.
 
 
 ### 待解决
-对话框文字大小适配不同分辨率的屏幕问题
-不规则窗口蒙版有白边的问题（是否使用Photoshop解决？）
+1. 对话框文字大小适配不同分辨率的屏幕问题
+2. 不规则窗口蒙版有白边的问题（是否使用Photoshop解决？）
 
